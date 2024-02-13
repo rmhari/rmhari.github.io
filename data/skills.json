@@ -1,22 +1,47 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[
+        {"name":"AWS - IOT Core"},
+        {"name":"EC2"},
+        {"name":"DynamoDB"},
+        {"name":"S3"},
+        {"name":"Kinesis"},
+        {"name":"SQS"},
+        {"name":"SNS"}
+      ]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[
+        {"name":"Java","icon":"java"},
+        {"name":"Python","icon":"python"},
+        {"name":"C"},
+        {"name":"HTML 5"},
+        {"name":"CSS 3"},
+        {"name":"SCSS"},
+        {"name":"Spring Boot"},
+        {"name":"Flutter"},
+        {"name":"Bootstrap 5"}
+      ]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":[ 
+        {"name":"Design systems"},
+        {"name":"Agile"},
+        {"name":"TDD"}
+    ]
   },
   {
       "grouping":"Data Management",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"SQL"},
+        {"name":"Postgres"},
+        {"name":"MySQL"},
+        {"name":"Dynamodb"},
+        {"name":"Hugo"},
+        {"name":"DBeaver"},
+        {"name":"Flyway"}
       ]
   },
   {
