@@ -1,15 +1,21 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"IIT Madras",
+        "degree":"Advanced Certification",
+        "major":"Software Engineering",
+        "notes":"Dissertation in Cloud, Iot, Blockchain",
+        "range":"2022"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Kalasalingam University",
+        "degree":"MTech",
+        "major":"Network Engineering",
+        "range":"2009 - 2011"
+    },
+    {
+        "school":"Anna University",
+        "degree":"BE",
+        "major":"Computer Science Engineering",
+        "range":"2005 - 2009"
     }
 ]
