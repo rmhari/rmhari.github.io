@@ -1,20 +1,38 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Technology Consultant",
+        "company":"Redim Info",
+        "summary":"\n- Designed and Developed Core Quiz engine. \n- Payment Gateway integration. \n- Developed Anchor interface and gamer interface using Flutter. \n- Implemented CI/CD using Github Actions.",
+        "range":"February 2022 - July 2022"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Software Engineer",
+        "company":"OurKadai Technologies",
+        "summary":"\n- We started this company to provide end to end solutions as technology  partners for enterprises \n- work along with technical team",
+        "range":"April 2021 - February 2022"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Junior Data Engineer",
+        "company":"Usistech",
+        "summary":"Being a data engineer, We are responsible for data extraction, data loading and data transformation.",
+        "range":"July 2020 - April 2021"
+    },
+    {
+        "role":"Open Source Developer and Trainer",
+        "company":"Tech@Park",
+        "summary":"\n- Started as a trainer and started leading training initiatives \n- Started practising open source using springboot\n- Contribution continues even today.",
+        "range":"September 2017 - June 2020"
+    },
+    {
+        "role":"Assistant Professor",
+        "company":"Chettinad College of Engineering － Karur",
+        "summary":"Handled Network subjects for graduates and post graduate engineering courses",
+        "range":"May 2011 - November 2016"
+    },
+    {
+        "role":"Teaching Assistant",
+        "company":"Kalasalingam University",
+        "summary":"Handled Network Labs for BE CSE and IT branch students",
+        "range":"May 2009 - March 2011"
     }
 ]
