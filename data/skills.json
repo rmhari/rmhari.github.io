@@ -1,16 +1,5 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[
-        {"name":"AWS - IOT Core"},
-        {"name":"EC2"},
-        {"name":"DynamoDB"},
-        {"name":"S3"},
-        {"name":"Kinesis"},
-        {"name":"SQS"},
-        {"name":"SNS"}
-      ]
-  },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[
         {"name":"Java","icon":"java"},
@@ -23,7 +12,18 @@
         {"name":"Flutter"},
         {"name":"Bootstrap 5"}
       ]
-  },
+  },{
+    "grouping":"Architecture",
+    "skills":[
+      {"name":"AWS - IOT Core"},
+      {"name":"EC2"},
+      {"name":"DynamoDB"},
+      {"name":"S3"},
+      {"name":"Kinesis"},
+      {"name":"SQS"},
+      {"name":"SNS"}
+    ]
+},
   {
       "grouping":"Platform Development & Administration",
       "skills":[ 
@@ -47,7 +47,6 @@
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
           {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
           {"name":"Google Cloud","link":"https://cloud.google.com"},

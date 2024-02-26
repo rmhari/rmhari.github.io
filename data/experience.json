@@ -1,5 +1,23 @@
 [
     {
+        "role":"Open Source Training Consultant",
+        "company":"NIIT StackRoute",
+        "summary":"\n- Started as a trainer and started leading training initiatives \n- Started practising open source using springboot\n- Contribution continues even today.",
+        "range":"2023 - 2024"
+    },
+    {
+        "role":"Skill Development Engineer",
+        "company":"Iamneo",
+        "summary":"\n- Started as a trainer and started leading training initiatives \n- Started practising open source using springboot\n- Contribution continues even today.",
+        "range":"2023 - 2024"
+    },
+    {
+        "role":"Skill Development Engineer",
+        "company":"Gradskey",
+        "summary":"\n- Started as a trainer and started leading training initiatives \n- Started practising open source using springboot\n- Contribution continues even today.",
+        "range":"2023 - 2024"
+    },
+    {
         "role":"Technology Consultant",
         "company":"Redim Info",
         "summary":"\n- Designed and Developed Core Quiz engine. \n- Payment Gateway integration. \n- Developed Anchor interface and gamer interface using Flutter. \n- Implemented CI/CD using Github Actions.",
@@ -18,7 +36,7 @@
         "range":"July 2020 - April 2021"
     },
     {
-        "role":"Open Source Developer and Trainer",
+        "role":"Developer/Mentor",
         "company":"Tech@Park",
         "summary":"\n- Started as a trainer and started leading training initiatives \n- Started practising open source using springboot\n- Contribution continues even today.",
         "range":"September 2017 - June 2020"
