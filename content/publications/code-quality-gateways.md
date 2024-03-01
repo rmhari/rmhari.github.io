@@ -1,6 +1,6 @@
 ---
 title: "Code Quality Gateways"
-date: 2016-11-08
+date: 2023-02-12
 pubtype: "Talk"
 featured: true
 description: "We will journey through various tools, technologies and

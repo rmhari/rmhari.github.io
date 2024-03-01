@@ -1,6 +1,6 @@
 ---
 title: "The Future of Java Persistence: Cloud Native Persistent Technology"
-date: 2016-11-08
+date: 2023-07-15
 pubtype: "Talk"
 featured: true
 description: "Over the past two decades, the way we access relational databases from Java

@@ -1,6 +1,6 @@
 ---
 title: "Logging in java"
-date: 2016-11-08
+date: 2022-10-23
 pubtype: "Talk"
 featured: true
 description: "Logging is a powerful aid for understanding and debugging
